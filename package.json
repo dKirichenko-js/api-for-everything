@@ -1,0 +1,19 @@
+{
+  "name": "api-for-everything",
+  "version": "1.0.0",
+  "description": "api для остальных приложений",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dKirichenko-js/api-for-everything.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
